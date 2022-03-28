@@ -1,7 +1,7 @@
 # C-project
 # hashdict.c
 
-This is my REALLY FAST implementation of a hash table in C, in under 200 lines of code.
+This is my REALLY FAST implementation of a hash table in C, in 200 lines of code.
 
 This is in fact a port of my [hashdic][cppversion] previously written in C++ for [jslike][jslike] project (which is a `var` class making programming in C++ as easy as in JavaScript).
 
